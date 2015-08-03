@@ -1,0 +1,50 @@
+.toolbar {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.body {
+    background-color: #FAFEFF;
+}
+
+.logout {
+    padding-right: 35px
+}
+
+.loginPanel {
+    padding: 3rem;
+    width: 30rem;
+    vertical-align: middle;
+    margin: 20rem auto;
+}
+
+.loginForm {
+    box-sizing: border-box;
+}
+
+.loginButton {
+    color: gray;
+    width: 100%;
+}
+
+.signUpPanel {
+    width: 30rem;
+    vertical-align: middle;
+    margin: 20rem auto;
+}
+
+.signUpForm {
+    padding: 3rem;
+    box-sizing: border-box;
+}
+
+
+.signInButton {
+    color: gray;
+}
+
+.errorMessage {
+    text-align: center !important;
+    font-size: 10px !important;
+    color: #ff6262 !important;
+}
